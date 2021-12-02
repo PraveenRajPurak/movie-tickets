@@ -2,4 +2,5 @@
 ### SDF Mini project
 A C implementation of booking tickets for movies.
 
-Authors.
+Update:
+Created another branch for the project.
